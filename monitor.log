@@ -1,0 +1,70 @@
+Iniciando programa
+Creando threads
+Esperando threads
+Iniciando thread 7533
+7533 - Iniciando iteracion 1
+7533 - Se consumen 21 recursos
+Iniciando thread 7535
+7535 - Iniciando iteracion 1
+7535 - Se consumen 21 recursos
+Iniciando thread 7532
+7532 - Iniciando iteracion 1
+7532 - Se consumen 21 recursos
+Iniciando thread 7531
+7531 - Iniciando iteracion 1
+7531 - No hay suficientes recursos (17) esperando a que se liberen...
+Iniciando thread 7534
+7534 - Iniciando iteracion 1
+7534 - No hay suficientes recursos (17) esperando a que se liberen...
+7534 - No hay suficientes recursos (17) esperando a que se liberen...
+7531 - No hay suficientes recursos (17) esperando a que se liberen...
+7535 - 21 recursos devueltos
+7535 - Iniciando iteracion 2
+7535 - Se consumen 21 recursos
+7533 - 21 recursos devueltos
+7533 - Iniciando iteracion 2
+7533 - Se consumen 21 recursos
+7532 - 21 recursos devueltos
+7532 - Iniciando iteracion 2
+7532 - Se consumen 21 recursos
+7534 - No hay suficientes recursos (17) esperando a que se liberen...
+7531 - No hay suficientes recursos (17) esperando a que se liberen...
+7533 - 21 recursos devueltos
+7533 - Iniciando iteracion 3
+7533 - Se consumen 21 recursos
+7532 - 21 recursos devueltos
+7532 - Iniciando iteracion 3
+7532 - Se consumen 21 recursos
+7531 - No hay suficientes recursos (17) esperando a que se liberen...
+7534 - No hay suficientes recursos (17) esperando a que se liberen...
+7535 - 21 recursos devueltos
+7535 - Iniciando iteracion 3
+7535 - Se consumen 21 recursos
+7534 - No hay suficientes recursos (17) esperando a que se liberen...
+7531 - No hay suficientes recursos (17) esperando a que se liberen...
+7532 - 21 recursos devueltos
+Finalizando thread 7532
+7531 - Se consumen 21 recursos
+7534 - No hay suficientes recursos (17) esperando a que se liberen...
+7535 - 21 recursos devueltos
+Finalizando thread 7535
+7533 - 21 recursos devueltos
+Finalizando thread 7533
+7534 - Se consumen 21 recursos
+7531 - 21 recursos devueltos
+7531 - Iniciando iteracion 2
+7531 - Se consumen 21 recursos
+7531 - 21 recursos devueltos
+7531 - Iniciando iteracion 3
+7531 - Se consumen 21 recursos
+7534 - 21 recursos devueltos
+7534 - Iniciando iteracion 2
+7534 - Se consumen 21 recursos
+7531 - 21 recursos devueltos
+Finalizando thread 7531
+7534 - 21 recursos devueltos
+7534 - Iniciando iteracion 3
+7534 - Se consumen 21 recursos
+7534 - 21 recursos devueltos
+Finalizando thread 7534
+Fin del programa

@@ -1,0 +1,59 @@
+Iniciando programa
+Creando threads
+Esperando threads
+Iniciando thread 7598
+7598 - Iniciando iteracion 1
+7598 - Recurso tomado
+Iniciando thread 7599
+Iniciando thread 7597
+7599 - Iniciando iteracion 1
+7597 - Iniciando iteracion 1
+7597 - Recurso tomado
+7599 - Recurso tomado
+Iniciando thread 7600
+7600 - Iniciando iteracion 1
+Iniciando thread 7596
+7596 - Iniciando iteracion 1
+7597 - Recurso devuelto
+7597 - Iniciando iteracion 2
+7597 - Recurso tomado
+7597 - Recurso devuelto
+7597 - Iniciando iteracion 3
+7597 - Recurso tomado
+7598 - Recurso devuelto
+7598 - Iniciando iteracion 2
+7598 - Recurso tomado
+7599 - Recurso devuelto
+7599 - Iniciando iteracion 2
+7599 - Recurso tomado
+7598 - Recurso devuelto
+7598 - Iniciando iteracion 3
+7598 - Recurso tomado
+7599 - Recurso devuelto
+7599 - Iniciando iteracion 3
+7599 - Recurso tomado
+7597 - Recurso devuelto
+Finalizando thread 7597
+7600 - Recurso tomado
+7598 - Recurso devuelto
+Finalizando thread 7598
+7596 - Recurso tomado
+7599 - Recurso devuelto
+Finalizando thread 7599
+7600 - Recurso devuelto
+7600 - Iniciando iteracion 2
+7600 - Recurso tomado
+7596 - Recurso devuelto
+7596 - Iniciando iteracion 2
+7596 - Recurso tomado
+7600 - Recurso devuelto
+7600 - Iniciando iteracion 3
+7600 - Recurso tomado
+7596 - Recurso devuelto
+7596 - Iniciando iteracion 3
+7596 - Recurso tomado
+7600 - Recurso devuelto
+Finalizando thread 7600
+7596 - Recurso devuelto
+Finalizando thread 7596
+Fin del programa
